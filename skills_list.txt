@@ -1,0 +1,181 @@
+python
+java
+c
+c++
+c#
+go
+rust
+typescript
+javascript
+scala
+r
+swift
+kotlin
+php
+perl
+ruby
+matlab
+objective-c
+shell scripting
+bash
+powershell
+sql
+html
+css
+latex
+react
+angular
+vue
+svelte
+node.js
+express
+django
+flask
+spring
+spring boot
+fastapi
+next.js
+nuxt.js
+ruby on rails
+dotnet
+asp.net
+hibernate
+laravel
+codeigniter
+symfony
+bootstrap
+tailwindcss
+jquery
+mysql
+postgresql
+sqlite
+mongodb
+oracle
+mariadb
+cassandra
+couchdb
+dynamodb
+redis
+neo4j
+elasticsearch
+hive
+snowflake
+bigquery
+redshift
+aws
+azure
+gcp
+ibm cloud
+digitalocean
+heroku
+kubernetes
+docker
+jenkins
+ansible
+terraform
+puppet
+chef
+circleci
+travisci
+git
+github
+gitlab
+bitbucket
+machine learning
+deep learning
+artificial intelligence
+nlp
+computer vision
+reinforcement learning
+transfer learning
+recommendation systems
+data science
+data analysis
+data visualization
+feature engineering
+model deployment
+predictive analytics
+statistical analysis
+big data
+hadoop
+spark
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+tensorflow
+keras
+pytorch
+mxnet
+xgboost
+lightgbm
+huggingface
+spacy
+nltk
+gensim
+openai
+powerbi
+tableau
+looker
+qlikview
+excel
+ms access
+sas
+stata
+minitab
+google analytics
+system design
+microservices
+api development
+rest api
+graphql
+soa
+ci/cd
+testing
+unit testing
+integration testing
+selenium
+junit
+pytest
+cypress
+postman
+swagger
+agile
+scrum
+kanban
+jira
+confluence
+communication
+teamwork
+leadership
+problem solving
+critical thinking
+adaptability
+time management
+creativity
+analytical thinking
+negotiation
+decision making
+collaboration
+attention to detail
+project management
+stakeholder management
+mentoring
+conflict resolution
+business analysis
+financial modeling
+budgeting
+forecasting
+product management
+product strategy
+market research
+salesforce
+crm
+erp
+sap
+oracle erp
+supply chain management
+lean
+six sigma
